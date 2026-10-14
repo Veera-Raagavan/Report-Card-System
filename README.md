@@ -265,7 +265,7 @@ A full recorded session (adding students, entering and updating marks, report ca
 
 ## Author
 
-**Your Name**
+**Veera Raagavan**
 Computer Science School Project
 
 ---
