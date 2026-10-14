@@ -1,0 +1,456 @@
+Report Card Management System
+Initializing database...
+Database and tables created successfully!
+
+
+========================================
+MENU
+========================================
+1. Add Student
+2. View Students
+3. Delete Student
+4. Add Marks
+5. View Marks
+6. Update Marks
+7. Generate Report Card
+8. Exit
+========================================
+Enter your choice (1-8): 1
+Enter Roll Number: 101
+Enter Student Name: John Smith
+Enter Class: 10A
+Student John Smith added successfully!
+
+========================================
+MENU
+========================================
+1. Add Student
+2. View Students
+3. Delete Student
+4. Add Marks
+5. View Marks
+6. Update Marks
+7. Generate Report Card
+8. Exit
+========================================
+Enter your choice (1-8): 1
+Enter Roll Number: 102
+Enter Student Name: Sarah Johnson
+Enter Class: 10B
+Student Sarah Johnson added successfully!
+
+========================================
+MENU
+========================================
+1. Add Student
+2. View Students
+3. Delete Student
+4. Add Marks
+5. View Marks
+6. Update Marks
+7. Generate Report Card
+8. Exit
+========================================
+Enter your choice (1-8): 1
+Enter Roll Number: 103
+Enter Student Name: Michael Brown
+Enter Class: 10A
+Student Michael Brown added successfully!
+
+========================================
+MENU
+========================================
+1. Add Student
+2. View Students
+3. Delete Student
+4. Add Marks
+5. View Marks
+6. Update Marks
+7. Generate Report Card
+8. Exit
+========================================
+Enter your choice (1-8): 2
+
+============================================================
+Roll No     Name                           Class     
+============================================================
+101         John Smith                     10A       
+102         Sarah Johnson                  10B       
+103         Michael Brown                  10A       
+============================================================
+
+========================================
+MENU
+========================================
+1. Add Student
+2. View Students
+3. Delete Student
+4. Add Marks
+5. View Marks
+6. Update Marks
+7. Generate Report Card
+8. Exit
+========================================
+Enter your choice (1-8): 4
+Enter Roll Number: 101
+Enter Subject Name: Mathematics
+Enter Marks: 85
+Marks added successfully!
+
+========================================
+MENU
+========================================
+1. Add Student
+2. View Students
+3. Delete Student
+4. Add Marks
+5. View Marks
+6. Update Marks
+7. Generate Report Card
+8. Exit
+========================================
+Enter your choice (1-8): 4
+Enter Roll Number: 101
+Enter Subject Name: Science
+Enter Marks: 92
+Marks added successfully!
+
+========================================
+MENU
+========================================
+1. Add Student
+2. View Students
+3. Delete Student
+4. Add Marks
+5. View Marks
+6. Update Marks
+7. Generate Report Card
+8. Exit
+========================================
+Enter your choice (1-8): 4
+Enter Roll Number: 101
+Enter Subject Name: English
+Enter Marks: 78
+Marks added successfully!
+
+========================================
+MENU
+========================================
+1. Add Student
+2. View Students
+3. Delete Student
+4. Add Marks
+5. View Marks
+6. Update Marks
+7. Generate Report Card
+8. Exit
+========================================
+Enter your choice (1-8): 4
+Enter Roll Number: 101
+Enter Subject Name: History
+Enter Marks: 88
+Marks added successfully!
+
+========================================
+MENU
+========================================
+1. Add Student
+2. View Students
+3. Delete Student
+4. Add Marks
+5. View Marks
+6. Update Marks
+7. Generate Report Card
+8. Exit
+========================================
+Enter your choice (1-8): 5
+Enter Roll Number: 101
+
+Marks for Roll No: 101 - John Smith
+========================================
+Subject              Marks     
+========================================
+English              78        
+History              88        
+Mathematics          85        
+Science              92        
+========================================
+
+========================================
+MENU
+========================================
+1. Add Student
+2. View Students
+3. Delete Student
+4. Add Marks
+5. View Marks
+6. Update Marks
+7. Generate Report Card
+8. Exit
+========================================
+Enter your choice (1-8): 6
+Enter Roll Number: 101
+Enter Subject Name: English
+Enter New Marks: 82
+Marks updated successfully!
+
+========================================
+MENU
+========================================
+1. Add Student
+2. View Students
+3. Delete Student
+4. Add Marks
+5. View Marks
+6. Update Marks
+7. Generate Report Card
+8. Exit
+========================================
+Enter your choice (1-8): 7
+Enter Roll Number: 101
+
+============================================================
+REPORT CARD
+============================================================
+Roll Number: 101
+Name: John Smith
+Class: 10A
+============================================================
+Subject                   Marks     
+============================================================
+English                   82        
+History                   88        
+Mathematics               85        
+Science                   92        
+============================================================
+Total Marks: 347
+Average Marks: 86.75
+Grade: A
+============================================================
+
+========================================
+MENU
+========================================
+1. Add Student
+2. View Students
+3. Delete Student
+4. Add Marks
+5. View Marks
+6. Update Marks
+7. Generate Report Card
+8. Exit
+========================================
+Enter your choice (1-8): 4
+Enter Roll Number: 102
+Enter Subject Name: Mathematics
+Enter Marks: 95
+Marks added successfully!
+
+========================================
+MENU
+========================================
+1. Add Student
+2. View Students
+3. Delete Student
+4. Add Marks
+5. View Marks
+6. Update Marks
+7. Generate Report Card
+8. Exit
+========================================
+Enter your choice (1-8): 4
+Enter Roll Number: 102
+Enter Subject Name: Science
+Enter Marks: 98
+Marks added successfully!
+
+========================================
+MENU
+========================================
+1. Add Student
+2. View Students
+3. Delete Student
+4. Add Marks
+5. View Marks
+6. Update Marks
+7. Generate Report Card
+8. Exit
+========================================
+Enter your choice (1-8): 4
+Enter Roll Number: 102
+Enter Subject Name: English
+Enter Marks: 92
+Marks added successfully!
+
+========================================
+MENU
+========================================
+1. Add Student
+2. View Students
+3. Delete Student
+4. Add Marks
+5. View Marks
+6. Update Marks
+7. Generate Report Card
+8. Exit
+========================================
+Enter your choice (1-8): 7
+Enter Roll Number: 102
+
+============================================================
+REPORT CARD
+============================================================
+Roll Number: 102
+Name: Sarah Johnson
+Class: 10B
+============================================================
+Subject                   Marks     
+============================================================
+English                   92        
+Mathematics               95        
+Science                   98        
+============================================================
+Total Marks: 285
+Average Marks: 95.00
+Grade: A+
+============================================================
+
+========================================
+MENU
+========================================
+1. Add Student
+2. View Students
+3. Delete Student
+4. Add Marks
+5. View Marks
+6. Update Marks
+7. Generate Report Card
+8. Exit
+========================================
+Enter your choice (1-8): 4
+Enter Roll Number: 103
+Enter Subject Name: Mathematics
+Enter Marks: 55
+Marks added successfully!
+
+========================================
+MENU
+========================================
+1. Add Student
+2. View Students
+3. Delete Student
+4. Add Marks
+5. View Marks
+6. Update Marks
+7. Generate Report Card
+8. Exit
+========================================
+Enter your choice (1-8): 4
+Enter Roll Number: 103
+Enter Subject Name: Science
+Enter Marks: 58
+Marks added successfully!
+
+========================================
+MENU
+========================================
+1. Add Student
+2. View Students
+3. Delete Student
+4. Add Marks
+5. View Marks
+6. Update Marks
+7. Generate Report Card
+8. Exit
+========================================
+Enter your choice (1-8): 4
+Enter Roll Number: 103
+Enter Subject Name: English
+Enter Marks: 52
+Marks added successfully!
+
+========================================
+MENU
+========================================
+1. Add Student
+2. View Students
+3. Delete Student
+4. Add Marks
+5. View Marks
+6. Update Marks
+7. Generate Report Card
+8. Exit
+========================================
+Enter your choice (1-8): 7
+Enter Roll Number: 103
+
+============================================================
+REPORT CARD
+============================================================
+Roll Number: 103
+Name: Michael Brown
+Class: 10A
+============================================================
+Subject                   Marks     
+============================================================
+English                   52        
+Mathematics               55        
+Science                   58        
+============================================================
+Total Marks: 165
+Average Marks: 55.00
+Grade: Fail
+============================================================
+
+========================================
+MENU
+========================================
+1. Add Student
+2. View Students
+3. Delete Student
+4. Add Marks
+5. View Marks
+6. Update Marks
+7. Generate Report Card
+8. Exit
+========================================
+Enter your choice (1-8): 3
+Enter Roll Number to delete: 103
+Student with roll number 103 deleted successfully!
+
+========================================
+MENU
+========================================
+1. Add Student
+2. View Students
+3. Delete Student
+4. Add Marks
+5. View Marks
+6. Update Marks
+7. Generate Report Card
+8. Exit
+========================================
+Enter your choice (1-8): 2
+
+============================================================
+Roll No     Name                           Class     
+============================================================
+101         John Smith                     10A       
+102         Sarah Johnson                  10B       
+============================================================
+
+========================================
+MENU
+========================================
+1. Add Student
+2. View Students
+3. Delete Student
+4. Add Marks
+5. View Marks
+6. Update Marks
+7. Generate Report Card
+8. Exit
+========================================
+Enter your choice (1-8): 8
+Thank you for using Report Card Management System!
+
